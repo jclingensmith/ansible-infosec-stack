@@ -1,0 +1,5 @@
+---
+- name: Hydra | Install Hydra
+  apt:
+    name: hydra
+    state: present
