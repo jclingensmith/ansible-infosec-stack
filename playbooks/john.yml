@@ -1,0 +1,6 @@
+---
+- name: John | Install John the Ripper
+  hosts: all
+
+  roles:
+    - role: john
