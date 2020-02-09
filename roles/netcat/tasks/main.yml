@@ -1,0 +1,6 @@
+---
+- name: Netcat | Install netcat
+  apt:
+    name: netcat
+    state: present
+
