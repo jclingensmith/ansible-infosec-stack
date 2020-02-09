@@ -13,3 +13,4 @@
 - import_playbook: dnsutils.yml
 - import_playbook: whois.yml
 - import_playbook: binwalk.yml
+- import_playbook: metasploit-framework.yml
