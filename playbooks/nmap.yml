@@ -1,0 +1,6 @@
+---
+- name: Nmap | Install Nmap and Zenmap
+  hosts: all
+
+  roles:
+    - role: nmap
