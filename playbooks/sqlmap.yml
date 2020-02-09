@@ -1,0 +1,6 @@
+---
+- name: SQLmap | Install SQLmap
+  hosts: all
+
+  roles:
+    - role: sqlmap
