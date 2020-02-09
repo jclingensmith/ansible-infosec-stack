@@ -1,0 +1,5 @@
+---
+- name: John | Install john the ripper
+  apt:
+    name: john
+    state: present
