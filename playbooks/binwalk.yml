@@ -1,0 +1,6 @@
+---
+- name: BinWalk | Install BinWalk
+  hosts: all
+
+  roles:
+    - role: binwalk
