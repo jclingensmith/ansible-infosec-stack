@@ -1,0 +1,6 @@
+---
+- name: Whois | Install whois
+  hosts: all
+
+  roles:
+    - role: whois
