@@ -11,3 +11,4 @@
 - import_playbook: john.yml
 - import_playbook: hydra.yml
 - import_playbook: dnsutils.yml
+- import_playbook: whois.yml
