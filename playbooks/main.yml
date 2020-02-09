@@ -8,3 +8,4 @@
 - import_playbook: tcpdump.yml
 - import_playbook: netcat.yml
 - import_playbook: sqlmap.yml
+- import_playbook: john.yml
