@@ -1,0 +1,5 @@
+---
+- name: BinWalk | Install BinWalk
+  apt:
+    name: binwalk
+    state: present
