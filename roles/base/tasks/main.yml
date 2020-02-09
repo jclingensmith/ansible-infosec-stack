@@ -1,0 +1,5 @@
+---
+- name: Base | Install python-apt
+  apt:
+    name: python-apt
+    state: present
