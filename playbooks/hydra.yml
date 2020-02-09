@@ -1,0 +1,6 @@
+---
+- name: Hydra | Install Hydra
+  hosts: all
+
+  roles:
+    - role: hydra
