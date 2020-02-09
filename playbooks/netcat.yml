@@ -1,0 +1,6 @@
+---
+- name: Netcat | Install netcat toll
+  hosts: all
+
+  roles:
+    - role: netcat
