@@ -1,0 +1,6 @@
+---
+- name: DNSultils | Install DNSultils
+  hosts: all
+
+  roles:
+    - role: dnsutils
