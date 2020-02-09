@@ -1,0 +1,6 @@
+---
+- name: Ansible infosec stack
+  hosts: all
+
+- import_playbook: base.yml
+- import_playbook: nmap.yml
