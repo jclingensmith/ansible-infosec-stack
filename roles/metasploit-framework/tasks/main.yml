@@ -1,0 +1,9 @@
+---
+- name: MSF | Download script msfinstall
+  get_url:
+    url: "{{ metasploit_installer_url }}"
+    dest: '/tmp/msfinstall'
+    mode: '775'
+
+- name: MSF | Install Metasploit Framework
+  command: '/tmp/msfinstall'
