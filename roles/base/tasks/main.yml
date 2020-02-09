@@ -1,5 +1,12 @@
 ---
-- name: Base | Install python-apt
+- name: Base | Install base packages
   apt:
-    name: python-apt
+    name: "{{ item }}"
     state: present
+  with_items:
+    - curl
+    - wget
+    - gcc
+    - python3
+    - git
+    - vim
