@@ -10,6 +10,11 @@ Ansible playbook and roles to provision a distro for infosec
 Ansible 2.9.+
 ```
 
+### Distros tested
+```
+Debian 10
+```
+
 ### Tools provisioned
 
 * DNSutils
