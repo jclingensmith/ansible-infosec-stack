@@ -36,7 +36,7 @@ I recommend adding your SSH key to the user's authorized_keys
 Running playbook - example
 
 ```
-ansible-playbook playbooks/main.yml -i 192.168.237.100 -u root
+ansible-playbook playbooks/main.yml -i inventory.ini -u root
 ```
 
 or execute run.sh
