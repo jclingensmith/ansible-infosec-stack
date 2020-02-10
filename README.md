@@ -25,6 +25,26 @@ Ansible 2.9.+
 * Whois
 * Docker
 
+### Whats run?
+
+```
+Add the machine's IP address within inventory.ini
+Run the playbook with a user with root permission
+I recommend adding your SSH key to the user's authorized_keys
+```
+
+Running playbook - example
+
+```
+ansible-playbook playbooks/main.yml -i 192.168.237.100 -u root
+```
+
+or execute run.sh
+
+```
+sh run.sh
+```
+
 ### Developer
 
 ```
