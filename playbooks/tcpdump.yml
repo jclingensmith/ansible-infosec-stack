@@ -1,6 +1,0 @@
----
-- name: TCPdump | Install network sniffer TCPdump
-  hosts: all
-
-  roles:
-    - role: tcpdump

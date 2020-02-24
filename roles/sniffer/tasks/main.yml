@@ -1,0 +1,6 @@
+---
+- name: Sniffer | Install tools
+  apt:
+    name:
+      - tcpdump
+      - wireshark

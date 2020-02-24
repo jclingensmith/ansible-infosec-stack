@@ -4,6 +4,12 @@ Ansible playbook and roles to provision a distro for infosec
 ![](./doc/ansible-logo.png)
 
 
+### Version
+
+```
+v2.0.0
+```
+
 ### Requirements
 
 ```
@@ -17,18 +23,28 @@ Debian 10
 
 ### Tools provisioned
 
-* DNSutils
-* BinWalk
-* Hydra
-* John the Ripper
-* Masscan
-* Metasploit-framework
-* Netcat
-* Nmap
-* SQLmap
-* TCPdump
-* Whois
-* Docker
+* Information Gathering
+    * Whois
+    * Masscan
+    * DNSrecon
+    * DNSutils
+    * Nmap
+    * Netcat
+
+* Exploitation
+    * SQLmap
+    * Metasploit framework
+
+* Passwork attack
+    * Hydra
+    * John
+
+* Reverse engineering
+    * Binwalk
+
+* Sniffer
+    * TCPdump
+    * Wireshark
 
 ### Whats run?
 

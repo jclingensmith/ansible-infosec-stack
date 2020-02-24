@@ -1,0 +1,10 @@
+---
+- name: Information Gathering | Install tools
+  apt:
+    name:
+      - whois
+      - masscan
+      - dnsrecon
+      - dnsutils
+      - nmap
+      - netcat

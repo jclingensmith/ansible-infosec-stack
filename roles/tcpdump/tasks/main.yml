@@ -1,6 +1,0 @@
----
-- name: TCPdump | Install network sniffer - TCPdump
-  apt:
-    name: tcpdump
-    state: present
-
