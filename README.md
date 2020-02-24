@@ -7,8 +7,8 @@
   <p align="center">
     <a href="https://twitter.com/dtr0x80">
       <img src="https://img.shields.io/badge/twitter-@dtr0x80-blue.svg">
-      <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
     </a>
+    <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
   </p>
 </p>
 
