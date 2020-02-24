@@ -1,5 +1,0 @@
----
-- name: SQLmap | Install SQLmap
-  apt:
-    name: sqlmap
-    state: present

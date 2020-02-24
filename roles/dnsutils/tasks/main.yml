@@ -1,5 +1,0 @@
----
-- name: DNSultils | Install DNSultils
-  apt:
-    name: dnsutils
-    state: present
