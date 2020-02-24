@@ -1,6 +1,0 @@
----
-- name: Base | Install base packages
-  hosts: all
-
-  roles:
-    - role: base

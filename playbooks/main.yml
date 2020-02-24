@@ -1,17 +1,22 @@
 ---
-- name: Ansible infosec stack
+- name: Infosec | Install tools for penetration testing
   hosts: all
 
-- import_playbook: base.yml
-- import_playbook: nmap.yml
-- import_playbook: masscan.yml
-- import_playbook: tcpdump.yml
-- import_playbook: netcat.yml
-- import_playbook: sqlmap.yml
-- import_playbook: john.yml
-- import_playbook: hydra.yml
-- import_playbook: dnsutils.yml
-- import_playbook: whois.yml
-- import_playbook: binwalk.yml
-- import_playbook: metasploit-framework.yml
-- import_playbook: docker.yml
+  roles:
+    - role: base
+      tags: base
+
+    - role: docker
+      tags: docker
+
+    - role: exploitation
+      tags: exploitation
+
+    - role: information-gathering
+      tags: information-gathering
+
+    - role: reverse-engineering
+      tags: reverse-engineering
+
+    - role: sniffer
+      tags: sniffer

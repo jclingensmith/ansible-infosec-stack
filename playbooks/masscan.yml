@@ -1,6 +1,0 @@
----
-- name: Masscan | Install masscan-cli
-  hosts: all
-
-  roles:
-    - role: masscan

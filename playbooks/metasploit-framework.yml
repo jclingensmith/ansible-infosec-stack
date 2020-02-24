@@ -1,6 +1,0 @@
----
-- name: MSF | Install Metasploit Framework
-  hosts: all
-
-  roles:
-    - role: metasploit-framework

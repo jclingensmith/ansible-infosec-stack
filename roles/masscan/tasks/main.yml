@@ -1,5 +1,0 @@
----
-- name: Masscan | Install masscan-cli
-  apt:
-    name: masscan
-    state: present

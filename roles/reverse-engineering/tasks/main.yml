@@ -1,0 +1,5 @@
+---
+- name: Reverse engineering | Install tools
+  apt:
+    name:
+      - binwalk
