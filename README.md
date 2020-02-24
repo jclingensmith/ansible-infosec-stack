@@ -1,13 +1,23 @@
 # ansible-infosec-stack
-Ansible playbook and roles to provision a distro for infosec
 
-![](./doc/ansible-logo.png)
+<p align="center">
+  <h3 align="center">Ansible infosec stack</h3>
+  <p align="center">Ansible playbook and roles to provision a distro for infosec.</p>
 
+  <p align="center">
+    <a href="https://twitter.com/dtr0x80">
+      <img src="https://img.shields.io/badge/twitter-@dtr0x80-blue.svg">
+      <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
+    </a>
+  </p>
+</p>
+
+<hr>
 
 ### Version
 
 ```
-v2.0.0
+v2.0.1
 ```
 
 ### Requirements
