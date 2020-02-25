@@ -8,3 +8,6 @@
       - dnsutils
       - nmap
       - netcat
+      - dnswalk
+      - dnstracer
+      - hping3
