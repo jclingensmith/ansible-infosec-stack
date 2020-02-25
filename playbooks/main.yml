@@ -15,6 +15,9 @@
     - role: information-gathering
       tags: information-gathering
 
+    - role: password-attack
+      tags: password-attack
+
     - role: reverse-engineering
       tags: reverse-engineering
 
