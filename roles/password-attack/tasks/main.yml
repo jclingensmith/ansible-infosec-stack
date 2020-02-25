@@ -4,3 +4,5 @@
     name:
       - hydra
       - john
+      - crunch
+      - hashcat
