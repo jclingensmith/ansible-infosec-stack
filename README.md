@@ -40,6 +40,9 @@ Debian 10
     * DNSutils
     * Nmap
     * Netcat
+    * DNSwalk
+    * DNStracer
+    * Hping3
 
 * Exploitation
     * SQLmap
@@ -48,6 +51,8 @@ Debian 10
 * Passwork attack
     * Hydra
     * John
+    * Chunch
+    * Hashcat
 
 * Reverse engineering
     * Binwalk
