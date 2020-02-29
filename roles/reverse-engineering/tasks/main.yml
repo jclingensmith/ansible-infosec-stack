@@ -6,6 +6,8 @@
       - gdb
       - gdb-mingw-w64
       - bsdmainutils
+      - edb-debugger
+      - apktool
 
 - name: Reverse engineering | Install radare2 (deb)
   apt:

@@ -60,6 +60,8 @@ Debian 10
     * GDB
     * GDB Server
     * GDB Mingw x64
+    * edb-debugger
+    * apktool
 
 * Sniffer
     * TCPdump
