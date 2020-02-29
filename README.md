@@ -56,6 +56,10 @@ Debian 10
 
 * Reverse engineering
     * Binwalk
+    * Hexdump
+    * GDB
+    * GDB Server
+    * GDB Mingw x64
 
 * Sniffer
     * TCPdump
