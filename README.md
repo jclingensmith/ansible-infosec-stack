@@ -1,4 +1,13 @@
-# ansible-infosec-stack
+```
+ ██████╗  ██████╗     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗
+██╔════╝ ██╔═══██╗    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝
+██║  ███╗██║   ██║    ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗
+██║   ██║██║   ██║    ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║
+╚██████╔╝╚██████╔╝    ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝
+ ╚═════╝  ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
+
+
+```
 
 <p align="center">
   <h3 align="center">Ansible infosec stack</h3>
@@ -9,7 +18,7 @@
       <img src="https://img.shields.io/badge/twitter-@dtr0x80-blue.svg">
     </a>
     <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
-    <img src="https://img.shields.io/badge/version-2.0.3-yellow.svg">
+    <img src="https://img.shields.io/badge/version-2.1.4-yellow.svg">
   </p>
 </p>
 
