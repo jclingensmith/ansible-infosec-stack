@@ -1,5 +1,12 @@
 ---
-- name: Reverse engineering | Install tools
+- name: Reverse engineering | Install native tools
   apt:
     name:
       - binwalk
+      - gdb
+      - gdb-mingw-w64
+      - bsdmainutils
+
+- name: Reverse engineering | Install radare2 (deb)
+  apt:
+    deb: "{{ radare2_deb }}"
