@@ -9,16 +9,11 @@
       <img src="https://img.shields.io/badge/twitter-@dtr0x80-blue.svg">
     </a>
     <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
+    <img src="https://img.shields.io/badge/version-2.0.3-yellow.svg)](https://semver.org>
   </p>
 </p>
 
 <hr>
-
-### Version
-
-```
-v2.0.1
-```
 
 ### Requirements
 
