@@ -4,3 +4,6 @@
     name:
       - tcpdump
       - wireshark
+      - sslstrip
+      - sslsplit
+      - mitmproxy

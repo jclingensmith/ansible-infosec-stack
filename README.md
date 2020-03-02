@@ -5,8 +5,6 @@
 ██║   ██║██║   ██║    ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║
 ╚██████╔╝╚██████╔╝    ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝
  ╚═════╝  ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
-
-
 ```
 
 <p align="center">
@@ -18,7 +16,7 @@
       <img src="https://img.shields.io/badge/twitter-@dtr0x80-blue.svg">
     </a>
     <img src="https://github.com/gmdutra/ansible-infosec-stack/workflows/ansible-lint/badge.svg?branch=master">
-    <img src="https://img.shields.io/badge/version-2.1.4-yellow.svg">
+    <img src="https://img.shields.io/badge/version-2.1.5-yellow.svg">
   </p>
 </p>
 
@@ -70,6 +68,9 @@ Debian 10
 * Sniffer
     * TCPdump
     * Wireshark
+    * SSLstrip
+    * Mitmproxy
+    * SSLsplit
 
 ### Whats run?
 
